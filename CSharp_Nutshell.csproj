@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="src\AdvancedCSharp\" />
+      <Folder Include="src\Collections\" />
+      <Folder Include="src\Concurrency\" />
+      <Folder Include="src\Cryptography\" />
+      <Folder Include="src\CSharpAndDotNet\" />
+      <Folder Include="src\Diagnostics\" />
+      <Folder Include="src\GarbageCollection\" />
+      <Folder Include="src\Interoperability\" />
+      <Folder Include="src\IONetworking\" />
+      <Folder Include="src\LanguageBasics\" />
+      <Folder Include="src\LINQ\" />
+      <Folder Include="src\Reflection\" />
+      <Folder Include="src\Regex\" />
+      <Folder Include="src\SpanMemory\" />
+      <Folder Include="src\Threading\" />
+      <Folder Include="src\Types\" />
+      <Folder Include="src\XMLJSON\" />
+    </ItemGroup>
+
+</Project>
